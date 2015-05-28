@@ -1,3 +1,7 @@
+# This package is not maintained
+
+The [terminal](https://github.com/atom/terminal) package doesn't seem to be maintained, and since it's a dependency, this package cannot serve its function. Furthermore, I am not using Atom actively anymore. Therefore, it's unlikely that I am able to fix deprecation issues and create a working version of this package.
+
 # Terminal Runner Atom Package
 
 Run commands remotely in a terminal session. Awesome for running tests or build commands.
